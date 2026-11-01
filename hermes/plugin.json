@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "Creative strategy and marketing engineering from Hermes on live ads from the Meta Ad Library, Google Ads Transparency Center, LinkedIn Ad Library and TikTok's EU ad library: competitor hooks and angles, video ad transcripts, creative briefs, scheduled competitor radars. Read-only.",
+  "author": {
+    "name": "Proxy",
+    "url": "https://useproxy.dev"
+  },
+  "homepage": "https://useproxy.dev",
+  "repository": "https://github.com/proxy-intell/proxy-agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "creative strategy",
+    "marketing engineering",
+    "ad library",
+    "competitor ads",
+    "meta ad library",
+    "facebook ads",
+    "google ads transparency",
+    "linkedin ads",
+    "tiktok ads",
+    "creative briefs",
+    "swipe file",
+    "mcp"
+  ]
+}
