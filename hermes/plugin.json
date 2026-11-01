@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creative strategy and marketing engineering from Hermes on live ads from the Meta Ad Library, Google Ads Transparency Center, LinkedIn Ad Library and TikTok's EU ad library: competitor hooks and angles, video ad transcripts, creative briefs, scheduled competitor radars. Read-only.",
   "author": {
     "name": "Proxy",

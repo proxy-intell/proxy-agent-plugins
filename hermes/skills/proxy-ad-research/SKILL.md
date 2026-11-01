@@ -3,12 +3,9 @@ name: proxy-ad-research
 description: "Use for creative strategy, marketing engineering and competitor ad research on live ad-library data (Meta Ad Library/Facebook/Instagram, Google Ads Transparency Center, LinkedIn Ad Library, TikTok). Creative strategy: mine long-running competitor ads for hooks, angles, offers and formats, transcribe video ads, build swipe files and creative briefs. Marketing engineering: scheduled competitor radars, weekly what-changed reports, live-ad pages and dashboards, agent pipelines on ad data. E.g. \"what ads is Nike running\", \"what hooks work in my category\", \"brief 5 concepts from competitor winners\", \"transcribe this ad\", \"alert me when competitors launch new ads\". Proxy is an MCP server; no API keys, OAuth only."
 metadata:
   author: proxy
-  version: "1.3.0"
+  version: "1.3.1"
   homepage: https://useproxy.dev
   source: https://useproxy.dev/SKILL.md
-  openclaw:
-    homepage: https://useproxy.dev
-    emoji: "🔎"
 ---
 
 # Proxy: Ad Intelligence for Creative Strategy and Marketing Engineering
