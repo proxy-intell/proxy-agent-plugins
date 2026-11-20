@@ -17,5 +17,5 @@ If Proxy's tools (`get_playbook`, `get_meta_ads`) are not available, Proxy is no
 ## Run
 
 1. Call `get_playbook` with job `competitor_watch` (free). It returns the current method: exact tool calls, what to look for, and the output format.
-2. Follow it step by step. Inputs it needs: 
+2. Follow it step by step.
 3. Deliver its output, ready to use, and end with its coverage line.
