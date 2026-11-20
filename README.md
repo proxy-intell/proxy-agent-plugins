@@ -6,6 +6,7 @@
 | --- | --- |
 | [`hermes/`](hermes) | Hermes Agent plugin (skill + MCP server) |
 | [`skills/proxy-ad-research/`](skills/proxy-ad-research) | The skill alone, for Hermes taps, OpenClaw/ClawHub and any Agent Skills client |
+| [`skills/<playbook>/`](skills) | One skill per Proxy playbook (`competitor-ad-teardown`, `ad-script-writing`, `winning-product-research`, `product-validation`, `digital-offer-research`, `who-is-advertising`, `brand-ad-audit`, `ad-swipe-file`, `landing-page-teardown`, `holiday-ad-campaigns`, `competitor-ad-watch`). Each loads its method with `get_playbook`. [What each delivers](https://useproxy.dev/playbooks) |
 
 ## Hermes
 
@@ -35,6 +36,6 @@ Skill: search `proxy-ad-research` on ClawHub.
 
 ## Any MCP client
 
-Connect to `https://mcp.useproxy.dev/mcp`. Setup for every client: https://useproxy.dev/welcome
+Connect to `https://mcp.useproxy.dev/mcp?ref=agent-plugins`. Setup for every client: https://useproxy.dev/welcome
 
 The canonical skill lives at https://useproxy.dev/SKILL.md. MIT licensed.
