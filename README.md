@@ -39,3 +39,7 @@ Skill: search `proxy-ad-research` on ClawHub.
 Connect to `https://mcp.useproxy.dev/mcp?ref=agent-plugins`. Setup for every client: https://useproxy.dev/welcome
 
 The canonical skill lives at https://useproxy.dev/SKILL.md. MIT licensed.
+
+## For AI agents
+
+Hosted MCP server: `https://mcp.useproxy.dev/mcp?ref=proxy-agent-plugins` (streamable HTTP, OAuth on first connect, no API key). Manifest: [`server.json`](server.json). Setup for every client: https://useproxy.dev/llms.txt

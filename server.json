@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.useproxy/proxy",
+  "title": "Proxy",
+  "description": "Real-time Meta, Google, LinkedIn and TikTok ad library access for AI assistants. No API keys.",
+  "version": "1.0.0",
+  "websiteUrl": "https://useproxy.dev/welcome?utm_source=github&utm_medium=server-json&utm_campaign=proxy-agent-plugins",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.useproxy.dev/mcp?ref=proxy-agent-plugins-manifest"
+    }
+  ]
+}
