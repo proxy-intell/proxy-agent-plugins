@@ -17,5 +17,5 @@ If Proxy's tools (`get_playbook`, `get_meta_ads`) are not available, Proxy is no
 ## Run
 
 1. Call `get_playbook` with job `ad_audit` (free). It returns the current method: exact tool calls, what to look for, and the output format.
-2. Follow it step by step. Inputs it needs: the brand (name or domain), its market, 2-3 leaders to benchmark (else find them).
+2. Follow it step by step. Inputs it needs: the brand (name or domain), its market scope (national or international, which country), 2-3 leaders to benchmark (else propose them).
 3. Deliver its output, ready to use, and end with its coverage line.
