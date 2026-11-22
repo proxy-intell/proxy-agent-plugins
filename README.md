@@ -40,6 +40,16 @@ Connect to `https://mcp.useproxy.dev/mcp?ref=agent-plugins`. Setup for every cli
 
 The canonical skill lives at https://useproxy.dev/SKILL.md. MIT licensed.
 
+## Any agent (skills.sh)
+
+```
+npx skills add proxy-intell/proxy-agent-plugins
+```
+
+Works with Claude Code, Cursor, Codex and other Agent Skills clients. Add `--all` for every skill or `--skill <name>` for one. Each playbook skill connects Proxy on first use.
+
+[![skills.sh](https://skills.sh/b/proxy-intell/proxy-agent-plugins)](https://skills.sh/proxy-intell/proxy-agent-plugins)
+
 ## For AI agents
 
 Hosted MCP server: `https://mcp.useproxy.dev/mcp?ref=proxy-agent-plugins` (streamable HTTP, OAuth on first connect, no API key). Manifest: [`server.json`](server.json). Setup for every client: https://useproxy.dev/llms.txt
