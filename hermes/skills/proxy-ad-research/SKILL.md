@@ -54,6 +54,8 @@ For a bigger job, call `get_playbook` first (free) and follow it: exact tool cal
 
 **TikTok (EU-delivered ads):** `search_tiktok_ads(advertiser_name)` → `get_tiktok_ad_details(id)`.
 
+**Organic references (TikTok, Instagram):** `search_organic_videos(query, platform)` for trending hooks and formats (search "brand + category word", never a bare brand name); `get_creator_videos(handle, platform)` for a brand's own feed; pass a post link to `analyze_ad_video(post_url)`. Use alongside ads, not instead.
+
 **Who are the competitors?** `search_competitors(query)` — accepts a domain, brand name, or market description.
 
 **Full competitive brief:** `get_competitive_brief(brands=[...])` — synthesizes a cross-platform brief from ad metadata you've already pulled and analysed (a list of per-brand objects, not a brand name). Pull ads first, then brief.

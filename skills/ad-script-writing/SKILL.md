@@ -1,6 +1,6 @@
 ---
 name: ad-script-writing
-description: "Original ad scripts built on structures that have run for months. Use when the user wants video ad scripts, hooks to film, UGC briefs, static or advertorial copy, modelling or recreating a winning ad. Runs on Proxy, the live Meta, Google, LinkedIn and TikTok ad library MCP."
+description: "Original ad scripts built on structures that have run for months. Use when the user wants video ad scripts, hooks to film, UGC briefs, static or advertorial copy, modelling or recreating a winning ad, trending organic TikTok and Instagram hooks to bring into paid. Runs on Proxy, the live Meta, Google, LinkedIn and TikTok ad library MCP."
 ---
 
 # Original ad scripts built on structures that have run for months
