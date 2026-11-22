@@ -1,6 +1,6 @@
 ---
 name: ad-swipe-file
-description: "A swipe file of ad references, grouped by visual pattern. Use when the user wants ad inspiration and swipe files: static ad references, design ideas, visual patterns. Runs on Proxy, the live Meta, Google, LinkedIn and TikTok ad library MCP."
+description: "A swipe file of ad references, grouped by visual pattern. Use when the user wants ad inspiration and swipe files: static ad references, design ideas, visual patterns, plus organic TikTok and Instagram references. Runs on Proxy, the live Meta, Google, LinkedIn and TikTok ad library MCP."
 ---
 
 # A swipe file of ad references, grouped by visual pattern
