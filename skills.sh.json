@@ -1,0 +1,26 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Start here",
+      "description": "Live Meta, Google, LinkedIn and TikTok ad research in your agent. Connects Proxy on first use, OAuth, no API keys.",
+      "skills": ["proxy-ad-research"]
+    },
+    {
+      "title": "Competitor research",
+      "description": "What competitors run, what changed, and how a brand compares to its category.",
+      "skills": ["competitor-ad-teardown", "competitor-ad-watch", "brand-ad-audit", "who-is-advertising"]
+    },
+    {
+      "title": "Creative",
+      "description": "Scripts, swipe files and landing pages built from ads that keep running.",
+      "skills": ["ad-script-writing", "ad-swipe-file", "landing-page-teardown", "holiday-ad-campaigns"]
+    },
+    {
+      "title": "Product and offer research",
+      "description": "Find and validate products and digital offers other sellers keep paying to advertise.",
+      "skills": ["winning-product-research", "product-validation", "digital-offer-research"]
+    }
+  ]
+}
