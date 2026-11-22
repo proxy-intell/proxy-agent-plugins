@@ -46,7 +46,7 @@ The canonical skill lives at https://useproxy.dev/SKILL.md. MIT licensed.
 npx skills add proxy-intell/proxy-agent-plugins
 ```
 
-Works with Claude Code, Cursor, Codex and other Agent Skills clients. Add `--all` for every skill or `--skill <name>` for one. Each playbook skill connects Proxy on first use.
+Works with Claude Code, Cursor, Codex and other Agent Skills clients. Add `--all` for every skill or `--skill <name>` for one. Skills run on Proxy: if it isn't connected yet, the skill tells you how (OAuth, no API key).
 
 [![skills.sh](https://skills.sh/b/proxy-intell/proxy-agent-plugins)](https://skills.sh/proxy-intell/proxy-agent-plugins)
 
