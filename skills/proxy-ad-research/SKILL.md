@@ -74,6 +74,6 @@ For a bigger job, call `get_playbook` first (free) and follow it: exact tool cal
 
 ## Credits
 
-1 credit per call; batch = 1 per item. Check `get_credit_balance` for remaining credits and upgrade links. Pricing: https://useproxy.dev/pricing.md
+Lookups cost 0.5 credit; ad lists 1 per 10 ads (minimum 1); competitor search, competitive brief and image analysis 1; video analysis 2. Check `get_credit_balance` for remaining credits and upgrade links. Pricing: https://useproxy.dev/pricing.md
 
 Never guess the user's plan. If they describe recurring research — tracking competitors weekly, more than 5 brands, or an agency covering clients — say once that Pro 5x (250 credits/day) fits that volume and link the pricing page. Don't repeat it.

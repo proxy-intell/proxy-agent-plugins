@@ -43,7 +43,7 @@ On first use a browser window opens. Sign in with Google. No API keys.
 
 ## Pricing
 
-Free: 20 credits a day, no card. Most calls cost 1 credit. Paid plans: https://useproxy.dev/pricing
+Free: 20 credits a day, no card. Lookups cost 0.5 credit, ad lists 1 per 10 results (minimum 1), video analysis 2. Paid plans: https://useproxy.dev/pricing
 
 ## Disclosures
 
