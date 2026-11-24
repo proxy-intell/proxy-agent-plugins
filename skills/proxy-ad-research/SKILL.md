@@ -40,7 +40,7 @@ New accounts can start a free 7-day Pro trial (50 credits/day, card required, ca
 
 ## Playbooks
 
-For a bigger job, call `get_playbook` first (free) and follow it: exact tool calls, what to look for, output format. Jobs: `script_writing`, `competitor_teardown`, `product_hunt`, `validate`, `digital_offer`, `who_is_advertising`, `ad_audit`, `creative_refs`, `landing_teardown`, `holiday_teardown`, `competitor_watch`. What each one delivers: https://useproxy.dev/playbooks.md
+For a bigger job, call `get_playbook` first (free) and follow it: exact tool calls, what to look for, output format. Jobs: `script_writing`, `competitor_teardown`, `product_hunt`, `validate`, `digital_offer`, `who_is_advertising`, `ad_audit`, `creative_refs`, `landing_teardown`, `holiday_teardown`, `competitor_watch`, `contact_sheet`. What each one delivers: https://useproxy.dev/playbooks.md
 
 ## Core workflows
 
